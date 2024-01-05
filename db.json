@@ -1,0 +1,214 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 1
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 2
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 3
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 4
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 5
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 6
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 7
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 8
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 9
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 10
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 11
+    },
+    {
+      "name": "qe",
+      "dob": "2023-12-31",
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 12
+    },
+    {
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "": "1",
+      "id": 13
+    },
+    {
+      "email": "saefe@gmail.com",
+      "password": "2336788",
+      "id": 14
+    },
+    {
+      "email": "saravanan00615@gmail.com",
+      "password": "235766u",
+      "id": 15
+    },
+    {
+      "email": "saefe@gmail.com",
+      "password": "675865876",
+      "id": 16
+    },
+    {
+      "email": "saefe@gmail.com",
+      "password": "123456",
+      "id": 17
+    },
+    {
+      "email": "saefe@gmail.com",
+      "password": "35867586",
+      "id": 18
+    },
+    {
+      "email": "saefe@gmail.com",
+      "password": "126563745",
+      "id": 19
+    },
+    {
+      "name": "lavanya",
+      "dob": "2023-12-31",
+      "email": "saravanan@gmail.com",
+      "password": "123456",
+      "contactNumber": "9251681992",
+      "id": 20
+    },
+    {
+      "name": "lavanya",
+      "dob": "2023-12-31",
+      "email": "saravanan@gmail.com",
+      "password": "123456",
+      "contactNumber": "9251681992",
+      "id": 21
+    },
+    {
+      "name": "lavanya",
+      "dob": "2023-12-31",
+      "email": "saravanan@gmail.com",
+      "password": "123456",
+      "contactNumber": "9251681992",
+      "id": 22
+    },
+    {
+      "name": "lava",
+      "dob": "2023-12-31",
+      "email": "lavan@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 23
+    },
+    {
+      "name": "lava",
+      "dob": "2023-12-31",
+      "email": "lavan@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 24
+    },
+    {
+      "name": "lava",
+      "dob": "2023-12-31",
+      "email": "lavan@gmail.com",
+      "password": "123456",
+      "contactNumber": "9025168199",
+      "id": 25
+    },
+    {
+      "name": "agalya",
+      "dob": "2024-01-07",
+      "email": "ag@gmail.com",
+      "password": "234567",
+      "contactNumber": "9025167298",
+      "id": 26
+    },
+    {
+      "name": "myth",
+      "dob": "2024-01-16",
+      "email": "s@gmail.com",
+      "password": "345678",
+      "contactNumber": "9035167486",
+      "id": 27
+    }
+  ]
+}

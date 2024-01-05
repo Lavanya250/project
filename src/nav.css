@@ -1,0 +1,24 @@
+nav{
+    background-color:brown;
+    height: auto;
+    width: auto;
+    margin-top: -24px;
+    font-size: 23px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    padding: 15px;
+}
+a{
+    color:aliceblue;
+    text-decoration: none;
+}
+li:hover:not(.active){
+    background-color: antiquewhite;
+}
+.act{
+    padding-left: 750px;
+}

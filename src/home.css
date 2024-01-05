@@ -1,0 +1,15 @@
+body{
+    background-image:url('./final.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.no{
+    color:#f3e5e5;
+    text-align: center;
+    text-shadow:100px;
+    font-size:120px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family:Cochin, Georgia, Times, 'Times New Roman';
+    font-size-adjust: var(300px);
+}
